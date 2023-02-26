@@ -24,6 +24,6 @@
   <body>
     <h1>Login Approval Pending</h1>
     <h2>Thank you for your registration</h2>
-    <p>Your login request has been received. Please wait for admin approval before attempting to log in.</p>
+    <p style="margin-left: 20%;margin-right: 20%;">Your login request has been received. Please wait for admin approval before attempting to log in. You will received an email on an update within 2 working days</p>
   </body>
 </html>

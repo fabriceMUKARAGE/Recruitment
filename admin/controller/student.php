@@ -30,7 +30,6 @@ if(isset($_POST['action']) && $_POST['action']== "view"){
             <td>'.$row['email'].'</td>
             <td>'.$row['major'].'</td>
             <td>'.$row['year'].'</td>
-            
 
             <td>
                 <a href="#" title="View Details" class="text-success infoBtn" id="'.$row['id'].'">

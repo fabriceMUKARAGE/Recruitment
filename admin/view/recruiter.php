@@ -42,7 +42,7 @@
 
 
         <li class="log_out">
-          <a href="../login/login.php">
+          <a href="../../login.php">
             <i class='bx bx-log-out'></i>
             <span class="links_logout" style="font-size: 20px;">Sign out</span>
           </a>

@@ -41,7 +41,7 @@
         </li>
 
         <li class="log_out">
-          <a href="../login/login.php">
+          <a href="../../login.php">
             <i class='bx bx-log-out'></i>
             <span class="links_logout" style="font-size: 20px;">Sign out</span>
           </a>
@@ -217,9 +217,6 @@ $(document).ready(function() {
 
         });
 
-    
-
-
       // Show users detail  page
       $("body").on("click",".infoBtn",function(event){
           event.preventDefault();
@@ -238,8 +235,8 @@ $(document).ready(function() {
                       '<b>Email:</b> '+data.email + '<br>' + 
                       '<b>School:</b> '+ data.school + '<br>' + 
                       '<b>Major:</b> '+data.major+ '<br>' + 
+                      '<b>Year:</b> '+data.year+ '<br>' + 
                       '<b>Resume:</b> '+data.resume
-                      
               })
             }
           });

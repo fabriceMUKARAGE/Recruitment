@@ -109,7 +109,7 @@ if (isset($_POST['submit'])) {
             
             <small id='success'></small>
             <button type="submit" id='submitBtn' name='submit'>Register</button>
-            <h2>Already registered! Login<a style="color: blue; text-decoration: none;" href="../login/login.php"> here</a></h2>
+            <h2>Already registered! Login<a style="color: blue; text-decoration: none;" href="../../login.php"> here</a></h2>
         </form>
     </div>
 

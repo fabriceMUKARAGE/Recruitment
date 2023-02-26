@@ -108,7 +108,7 @@
 
             <small id='success'></small>
             <button type="submit" name="submit" id='submitBtn'>Register</button>
-            <h2>Already registered! Login<a style="color: blue; text-decoration: none;" href="../login/login.php"> here</a></h2>
+            <h2>Already registered! Login<a style="color: blue; text-decoration: none;" href="../../login.php"> here</a></h2>
         </form>
     </div>
 
